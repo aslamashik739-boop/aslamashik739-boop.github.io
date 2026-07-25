@@ -470,11 +470,3 @@
 </body>
 </html><br>
 
-7.contac From<form>
-  <label>Name:</label>
-  <input type="text" name="name">
-  <label>Email:</label>
-  <input type="email" name="email">
-  <input type="submit" value="Submit">
-</form>
-
